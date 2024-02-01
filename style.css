@@ -115,7 +115,7 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-bottom: 30px;
+   
    
 }
 
@@ -379,6 +379,7 @@ main {
 }
 .question{
     width: 90%;
+    padding-bottom: 20px;
      
 }
 
